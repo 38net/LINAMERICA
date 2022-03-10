@@ -1,0 +1,15 @@
+/*
+Custom Css
+*/
+/*About page*/
+.bg-success-rose {
+    background-color: #AB598A;
+  }
+  .text-success-rose {
+    color:#AB598A;
+  }
+  
+  .services-icon-wap:hover {
+      background: #CAE8E8;
+  }
+  
